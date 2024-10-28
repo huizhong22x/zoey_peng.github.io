@@ -11,7 +11,7 @@ output:
 
 * [P8105](https://p8105.com)
 
-## Icons
+### Icons
 
 * [Font Awesome](https://fontawesome.com/icons)
 
