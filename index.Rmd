@@ -1,0 +1,21 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+### Links
+
+* [P8105](https://p8105.com)
+
+## Icons
+
+* [Font Awesome](https://fontawesome.com/icons)
+
+### Link to page within the site
+
+* [About me](about.html)
+
